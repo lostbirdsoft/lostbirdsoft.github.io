@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.lostbirdsoft.checkers",
+    "sha256_cert_fingerprints": ["5A:AC:F5:3B:BE:F3:27:BF:38:DB:8C:1B:B8:9E:90:C4:81:8C:12:3D:28:35:53:05:38:08:C8:98:22:7F:2A:7E"]
+  }
+}]
