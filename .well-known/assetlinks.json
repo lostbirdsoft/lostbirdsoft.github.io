@@ -13,4 +13,12 @@
     "package_name": "io.github.lostbirdsoft.soulmate",
     "sha256_cert_fingerprints": ["B4:87:BE:91:D3:73:FD:3D:E8:05:E3:FE:21:AB:AD:62:E9:15:0E:9A:F2:7D:C1:6A:6B:B8:18:D2:93:B9:C8:75"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.lostbirdsoft.comedykombat",
+    "sha256_cert_fingerprints": ["55:2A:39:F5:02:C7:FE:70:E8:31:01:22:DA:B9:6F:36:98:9D:0C:63:F0:2C:B0:E7:0D:F5:B7:E9:BE:55:58:23"]
+  }
 }]
